@@ -9,7 +9,7 @@ To run the project,
         b. add the new movies
 4.	Depending on the action that has to be performed, you'll be navigated to that page.
 
-The "Database" folder consists of the sample data, the name of the table is movies which consists the following field names:
+The "movies_movies.sql" consists of the sample data, the name of the table is movies which consists the following field names:
 1.	Movie Name
 2.	Actor
 3.	Actress
