@@ -175,7 +175,7 @@ public class ViewMovie extends javax.swing.JFrame {
     }//GEN-LAST:event_btnSearch1ActionPerformed
 
     private void btnClearActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnClearActionPerformed
-       txtActorName.setText("");
+       new ViewMovie().setVisible(true);
     }//GEN-LAST:event_btnClearActionPerformed
 
     /**
